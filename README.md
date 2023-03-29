@@ -6,3 +6,6 @@ I'm sharing my code here on GitHub to showcase to world about my skill and  to m
 
 ## 2. Mini Music Player
 <img width="281" alt="Mini Music" src="https://user-images.githubusercontent.com/114320334/228372719-87da0710-6441-4e70-b620-9557b0012d85.PNG">
+
+## 3. Portfolio Mini Card
+<img width="484" alt="Portfolio Mini Card" src="https://user-images.githubusercontent.com/114320334/228659919-fdbf5732-e798-44ae-9714-a511395bd6cc.PNG">
