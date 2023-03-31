@@ -9,3 +9,7 @@ I'm sharing my code here on GitHub to showcase to world about my skill and  to m
 
 ## 3. Portfolio Mini Card
 <img width="484" alt="Portfolio Mini Card" src="https://user-images.githubusercontent.com/114320334/228659919-fdbf5732-e798-44ae-9714-a511395bd6cc.PNG">
+
+## 4. Alpha App Menu With Lock Screen
+<img width="927" alt="App Menu " src="https://user-images.githubusercontent.com/114320334/229084968-6aa45d5a-08d8-4e14-93cf-cf33d1e46cea.PNG">
+<img width="925" alt="App Menu 2" src="https://user-images.githubusercontent.com/114320334/229085029-fce22aac-feac-4707-9dd5-ff3e5ef73c15.PNG">
