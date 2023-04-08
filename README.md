@@ -16,3 +16,6 @@ I'm sharing my code here on GitHub to showcase to world about my skill and  to m
 
 ## 5. Neumorphic Elements
 <img width="899" alt="Neumorphic Elements" src="https://user-images.githubusercontent.com/114320334/229285535-bc51c413-94d0-4435-a485-c141e68fda4f.PNG">
+
+## 6. Alpha Project Management Dashboard UI
+<img width="921" alt="Alpha Project Management Dashboard UI" src="https://user-images.githubusercontent.com/114320334/229358813-9591fcab-de93-46f4-8b35-e32ae0dc3a30.PNG">
