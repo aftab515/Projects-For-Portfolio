@@ -19,3 +19,15 @@ I'm sharing my code here on GitHub to showcase to world about my skill and  to m
 
 ## 6. Alpha Project Management Dashboard UI
 <img width="921" alt="Alpha Project Management Dashboard UI" src="https://user-images.githubusercontent.com/114320334/229358813-9591fcab-de93-46f4-8b35-e32ae0dc3a30.PNG">
+
+## 7. gpt3_alpha
+<img width="904" alt="gpt3" src="https://user-images.githubusercontent.com/114320334/235357260-3e28b953-3b73-4dae-8ea8-dfb220b578ce.PNG">
+
+## 8. metaverses
+<img width="330" alt="metaverse" src="https://user-images.githubusercontent.com/114320334/235357334-967bf859-a4ee-4cef-ba2b-47a74dff27d1.PNG">
+
+## 9. Hoo Bank
+<img width="938" alt="Hoo bank " src="https://user-images.githubusercontent.com/114320334/235357377-09653f0f-c94e-4719-930b-594a9678e606.PNG">
+
+## 10. gericht_restaurant
+<img width="930" alt="restaurant" src="https://user-images.githubusercontent.com/114320334/235357414-6a15b29e-7f9c-47f2-a94f-470c14f5ef10.PNG">
