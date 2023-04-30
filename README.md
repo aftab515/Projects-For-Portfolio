@@ -31,3 +31,6 @@ I'm sharing my code here on GitHub to showcase to world about my skill and  to m
 
 ## 10. gericht_restaurant
 <img width="930" alt="restaurant" src="https://user-images.githubusercontent.com/114320334/235357414-6a15b29e-7f9c-47f2-a94f-470c14f5ef10.PNG">
+
+## 11. Dashboard UI/UX
+<img width="943" alt="crypto" src="https://user-images.githubusercontent.com/114320334/235357483-7798e6fd-0389-41ae-903a-4a12613eacc8.PNG">
