@@ -34,3 +34,7 @@ I'm sharing my code here on GitHub to showcase to world about my skill and  to m
 
 ## 11. Dashboard UI/UX
 <img width="943" alt="crypto" src="https://user-images.githubusercontent.com/114320334/235357483-7798e6fd-0389-41ae-903a-4a12613eacc8.PNG">
+
+## 12. Quiz App
+<img width="946" alt="Quiz" src="https://github.com/aftab515/Projects-For-Portfolio/assets/114320334/feaf5160-374e-41f7-a573-761c7d859003">
+
