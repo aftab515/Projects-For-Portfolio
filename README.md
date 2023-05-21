@@ -38,3 +38,6 @@ I'm sharing my code here on GitHub to showcase to world about my skill and  to m
 ## 12. Quiz App
 <img width="946" alt="Quiz" src="https://github.com/aftab515/Projects-For-Portfolio/assets/114320334/feaf5160-374e-41f7-a573-761c7d859003">
 
+## Digital-Clock
+<img width="959" alt="D Clock" src="https://github.com/aftab515/Projects-For-Portfolio/assets/114320334/cc4944ad-40b5-4ecb-94df-a75fe0ff7f5b">
+
